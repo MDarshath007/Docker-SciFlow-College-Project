@@ -1,0 +1,33 @@
+  version: "3"
+  services:
+    client:
+      build:
+        context: ./client
+      ports:
+        - 8000:80
+      networks:
+        - sciflow-networks
+
+    server:
+      build:
+        context: ./server
+      ports:
+        - 5000:5000
+      networks:
+        - sciflow-networks
+
+    database:
+      image: mongo:latest
+      ports:
+        - 27017:27017
+      networks:
+        - sciflow-networks
+      volumes:
+        - sciflow-volumes:/data/db
+
+  networks:
+    sciflow-networks:
+      driver: bridge    
+
+  volumes: 
+    sciflow-volumes:
