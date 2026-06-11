@@ -10,10 +10,16 @@ Features:
     </ul>
  
 Project Screenshot: 
+
 Docker ps & Docker Compose:
+
 <img width="1360" height="680" src="Images/Screenshot (72).png" />
+
 Docker Desktop GUI
+
 <img width="1360" height="680" src="Images/Screenshot (73).png" />
+
 Containerized Project (localhost)
+
 <img width="1360" height="680" src="Images/Screenshot (74).png" />
 
