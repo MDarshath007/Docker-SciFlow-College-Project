@@ -1,6 +1,6 @@
 🐳 Completed the "Getting Started with Docker" certification from SIMPLILEARN and applied the concepts by containerizing my "MERN-based College Project" using Docker.
 
-Features:
+<h1>Features:</h1>
    <ul>
       <li>🔹 Created Dockerfile for Frontend and Backend</li>
       <li>🔹 Used Docker Desktop and CLI to build and run containers</li>
@@ -9,17 +9,17 @@ Features:
       <li>🔹 Practiced container networking and volume persistence</li>
     </ul>
  
-Project Screenshot: 
+<h1>Project Screenshot: </h1>
 
-Docker ps & Docker Compose:
+<h1>Docker ps & Docker Compose:</h1>
 
 <img width="1360" height="680" src="Images/Screenshot (72).png" />
 
-Docker Desktop GUI
+<h1>Docker Desktop GUI</h1>
 
 <img width="1360" height="680" src="Images/Screenshot (73).png" />
 
-Containerized Project (localhost)
+<h1>Containerized Project (localhost)</h1>
 
 <img width="1360" height="680" src="Images/Screenshot (74).png" />
 
