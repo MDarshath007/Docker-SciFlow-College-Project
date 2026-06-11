@@ -9,4 +9,4 @@ Features:
       <li>🔹 Practiced container networking and volume persistence</li>
     </ul>
  
-Project Screenshot: <img width="1360" height="680" alt="Expense Tracker Screenshot" src="https://github.com/user-attachments/assets/95d3a084-2a01-4940-818c-aa7777d9757a" />
+Project Screenshot: <img width="1360" height="680" alt="Expense Tracker Screenshot" src="[https://github.com/user-attachments/assets/95d3a084-2a01-4940-818c-aa7777d9757a](https://github.com/MDarshath007/Docker-SciFlow-College-Project/blob/main/Images/Screenshot%20(72).png)" />
