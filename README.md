@@ -1,5 +1,7 @@
 🐳 Completed the "Getting Started with Docker" certification from SIMPLILEARN and applied the concepts by containerizing my "MERN-based College Project" using Docker.
 
+<img width="1286" height="909" alt="Docker" src="https://github.com/user-attachments/assets/127b0e4f-fc96-4467-85c7-bec99d2fd7b6" />
+
 <h1>Features:</h1>
    <ul>
       <li>Created Dockerfile for Frontend and Backend</li>
