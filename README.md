@@ -2,11 +2,11 @@
 
 <h1>Features:</h1>
    <ul>
-      <li>🔹 Created Dockerfile for Frontend and Backend</li>
-      <li>🔹 Used Docker Desktop and CLI to build and run containers</li>
-      <li>🔹 Set up the application using Docker Compose</li>
-      <li>🔹 Configured multiple services to run together locally</li>
-      <li>🔹 Practiced container networking and volume persistence</li>
+      <li>Created Dockerfile for Frontend and Backend</li>
+      <li>Used Docker Desktop and CLI to build and run containers</li>
+      <li>Set up the application using Docker Compose</li>
+      <li>Configured multiple services to run together locally</li>
+      <li>Practiced container networking and volume persistence</li>
     </ul>
  
 <h1>Project Screenshot: </h1>
